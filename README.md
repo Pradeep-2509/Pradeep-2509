@@ -2,7 +2,7 @@
 ### 💻 MCA Student | Front-End Developer | Tech Enthusiast
 
 ## 🚀 About Me  
-- 🎓 Currently pursuing **MCA**  
+- 🎓 MCA fresher 
 - 👨‍💻 Passionate about **Front-end Development**, UI/UX  
 - 🌱 Learning **JavaScript, React, TailwindCSS**
 
